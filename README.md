@@ -1,69 +1,51 @@
-👨‍💻 Python Full Stack Developer | API Specialist | Open Source Enthusiast
-I'm a results-driven Full Stack Developer with a strong foundation in Python and a comprehensive skill set for building dynamic, scalable, and secure web applications. I specialize in both frontend and backend development, RESTful API design, and integrating intelligent systems with real-world utility.
+👨‍💻 Full Stack Developer | API Specialist | Enterprise Solutions | Open Source Enthusiast
 
-💡 What I Do
+I’m a Full Stack Developer with expertise in Python, ASP.NET, C#, and JavaScript frameworks, passionate about building scalable web, mobile, and enterprise solutions. My work spans from user-centric frontends to robust backends and intelligent AI integrations that solve real business challenges.
 
-*   Design & Develop Full-Stack Web Applications
-    From wireframes to production deployment, I build responsive, user-centric apps using modern frameworks and tools.
+🔹 Core Expertise
 
-*   Architect Robust Backend Systems
-    Using Django, Flask, and Django REST Framework to develop clean, maintainable, and performant backend services.
+Full-Stack Development → React, React Native, Django, ASP.NET
 
-*   Create and Integrate APIs
-    Skilled in building RESTful APIs and integrating third-party services to enhance functionality and user experience.
+Enterprise Systems → ERP, HRM, CRM, AI-powered productivity tools
 
-*   Develop AI-Driven Applications
-    Worked on practical ML integrations like face recognition and medicine identification tools using image processing.
+API Engineering → RESTful API design, integration & microservices
 
-*   Database Design & Optimization
-    Proficient in designing scalable schemas, writing complex queries, and managing relational databases like SQLite, MySQL, and PostgreSQL.
+Database Mastery → MySQL, PostgreSQL, SQLite, SQL Server, Supabase
 
+Mobile & Web Apps → Cross-platform solutions with seamless UX
 
+Intelligent Systems → Face recognition, image processing, ML automation
 
-🛠️ Tech Stack
+3D & Interactive Web → Building immersive apps with Three.js
 
-*   Frontend: HTML5, CSS3, Bootstrap, JavaScript
+CMS & Business Platforms → WordPress, corporate portals, e-commerce
 
-*   Backend: Python, Django, Flask
+🛠️ Tech Toolbox
 
-*   APIs: Django REST Framework, RESTful API Development & Integration
+Python | Django | Flask | ASP.NET | C# | React | React Native |
+Three.js | WordPress | MySQL | PostgreSQL | SQL Server | Supabase |
+REST APIs | JWT | ORM | MVC | Git/GitHub | Cloud Integration
 
-*   Databases: SQLite, MySQL, PostgreSQL
+🚀 What I Build
 
-*   Version Control: Git, GitHub
+🛒 E-commerce Platforms → Payments, admin dashboards, secure workflows
 
-*   Other: MVC Architecture, ORM, JWT Authentication, Cloud Integration (basic)
+🧠 AI Applications → Face recognition, image-based medicine detection
 
+🏢 Enterprise Solutions → ERP, HRM, CRM, analytics dashboards
 
+📱 Mobile Apps → Cross-platform apps for business & productivity
 
+📝 Content Platforms → Blogs, CMS, custom portfolio engines
 
+🌍 Currently
 
-📌 Notable Projects
+Contributing to open-source projects
 
-*   🛒 E-commerce Platforms – Complete product lifecycle, payment gateway integration, admin panels
+Advancing cloud & containerized deployments
 
-*   🧠 AI Applications – Face identifier, medicine scanner using image recognition
+Optimizing enterprise-grade backends & APIs
 
-*   📝 Content Systems – Blog engines, personal portfolios, CMS-style business websites
+Open for freelance collaborations worldwide
 
-*   🏢 Corporate Sites – Custom-built company platforms with client-driven features
-
-*   🗃️ Database Modeling – DFDs, ER diagrams, normalized schemas, and relational database setups
-
-
-
-
-🚀 I'm Currently...
-
-*   Contributing to open-source projects
-
-*   Enhancing my skills in cloud deployment & containerization
-
-*   Exploring advanced backend optimization techniques
-
-
-
-
-
-Let's connect and build something impactful.
-Feel free to explore my repositories and reach out for collaboration!
+📌 “Building software that empowers people and accelerates businesses.”
